@@ -45,7 +45,7 @@
 - [Déjà Dup](https://gitlab.gnome.org/World/deja-dup) - Simple backup tool, hides the complexity of backing up the right way and uses duplicity as the backend. 👏
 - [duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program. 👏
-- [Timeshift](http://www.teejeetech.in/p/timeshift.html) - Takes incremental snapshots of the file system at regular intervals. 👏
+- [Timeshift](https://github.com/linuxmint/timeshift) - Takes incremental snapshots of the file system at regular intervals. 👏
 
 ## Browser
 
